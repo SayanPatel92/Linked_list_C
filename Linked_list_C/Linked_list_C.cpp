@@ -3,8 +3,8 @@
 
 // Define a structure for a node in the linked list
 typedef struct Node {
-    int data;           // Data stored in the node
-    struct Node* next;  // Pointer to the next node in the list
+    int data;           // Data stored in the node.
+    struct Node* next;  // Pointer to the next node in the list.
 } Node;
 
 // Function to create a new node
